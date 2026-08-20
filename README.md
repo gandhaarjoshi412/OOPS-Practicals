@@ -8,3 +8,5 @@ This repository contains Object-Oriented Programming (OOP) practical experiments
 3. **Experiment-03**: TypeCasting Inside Class
 4. **Experiment-04**: Function Outside Class
 5. **Experiment-05**: Inline Function
+6. **Experiment-06**: Friend Functions
+7. **Experiment-07**: Static Members
